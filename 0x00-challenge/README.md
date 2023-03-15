@@ -1,0 +1,20 @@
+0x00. Fix my code
+Debugging
+
+    By: Guillaume
+    Weight: 1
+    Project will start Mar 13, 2023 6:00 AM, must end by Mar 27, 2023 6:00 AM
+    Checker will be released at Mar 16, 2023 6:00 PM
+    An auto review will be launched at the deadline
+
+Background Context
+
+Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
+
+Sometimes you will know the language, sometimes not.
+
+Please download the repository 0x00-Fix_My_Code_Challenge and use it as initial files for all solutions.
+
+You should not recode everything, just fix it!
+
+This project is NOT mandatory at all. It is 100% optional. Doing any part of this project will add a project grade of over 100% to your average. Your score won’t get hurt if you don’t do it, but if your current average is greater than your score on this project, your average might go down. Have fun!
